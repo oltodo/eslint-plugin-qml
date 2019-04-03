@@ -1,21 +1,21 @@
 {
-  "name": "eslint-plugin-markdown",
+  "name": "eslint-plugin-qml",
   "version": "1.0.0",
-  "description": "An ESLint plugin to lint JavaScript in Markdown code fences.",
+  "description": "An ESLint plugin to lint JavaScript in QML files.",
   "license": "MIT",
   "author": {
-    "name": "Brandon Mills",
-    "url": "https://github.com/btmills"
+    "name": "Nicolas Bazille",
+    "url": "https://github.com/oltodo"
   },
-  "repository": "eslint/eslint-plugin-markdown",
+  "repository": "oltodo/eslint-plugin-qml",
   "bugs": {
-    "url": "https://github.com/eslint/eslint-plugin-markdown/issues"
+    "url": "https://github.com/oltodo/eslint-plugin-qml/issues"
   },
-  "homepage": "https://github.com/eslint/eslint-plugin-markdown#readme",
+  "homepage": "https://github.com/oltodo/eslint-plugin-qml#readme",
   "keywords": [
     "eslint",
     "eslintplugin",
-    "markdown",
+    "qml",
     "lint",
     "linter"
   ],
